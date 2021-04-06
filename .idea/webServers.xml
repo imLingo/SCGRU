@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="225cfe1d-aae6-4643-99d0-e9c5ba89665c" name="tang">
+        <fileTransfer rootFolder="/home/lingxiangzheng/workspace" accessType="SFTP" host="172.16.61.141" port="22" sshConfigId="2d9accda-3cfc-42eb-b586-a49cf667792b" sshConfig="lingxiangzheng@172.16.61.141:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
