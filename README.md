@@ -45,11 +45,11 @@ python GVGRU.py --model [Model_Name]
 
 1.  The test results of the standard GRU (**Baseline**).
 
-![](https://github.com/imLingo/Pictures/blob/master/LAN_baseline.JPG)
+![LAN Baseline](https://github.com/imLingo/Pictures/blob/master/LAN_baseline.JPG)
 
 2. The test results of SCGRU (**Our**).
 
-![]()
+![LAN SCGRU]()
 
 
 
@@ -57,11 +57,11 @@ python GVGRU.py --model [Model_Name]
 
 1.  The test results of the standard GRU (**Baseline**).
 
-![](https://github.com/imLingo/Pictures/blob/master/power_baseline.JPG)
+![Power load Baseline](https://github.com/imLingo/Pictures/blob/master/power_baseline.JPG)
 
 2. The test results of SCGRU (**Our**).
 
-![]()
+![Power load SCGRU]()
 
 
 
