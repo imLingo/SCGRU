@@ -64,4 +64,7 @@ python GVGRU.py --model [Model_Name]
 ![Power load SCGRU]()
 
 
+## Note
+
+Note that the power load data set used in the paper is temporarily unavailable due to its industry sensitivity. Please understand.
 
