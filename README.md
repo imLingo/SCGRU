@@ -6,7 +6,7 @@ PyTorch implementation of "One-shot Pruning of Gated Recurrent Unit Neural Netwo
 
 ![In PowerLoad Task](https://github.com/imLingo/Pictures/blob/master/powerLoad_prune_performance_compared_new.tif)
 
-![In LAN Task](https://github.com/imLingo/Pictures/raw/master/traffic_prune_performance_compared.tiff)
+![In LAN Task](https://github.com/imLingo/Pictures/blob/master/traffic_prune_performance_compared.tiff)
 
 ## Requirements
 
